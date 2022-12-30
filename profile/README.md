@@ -32,7 +32,7 @@ At this point, we feel that JDA is stable enough to be released  and thus decide
 
 # Reseachers
 | Name | Date | Organisation | Description
-| :--: | :--: | :--: |
+| :--: | :--: | :--: | :--: |
 | Le, Minh Duc | 2012-now | Swinburne Vietnam | JDA creator, designer (architecture, framework), project lead
 | Dang, Duc Hanh | 2016-2023 | VNU, University of Engineering and Technology | aDSL language design 
 | Vo, Dinh Hieu | 2012-2023 | VNU, University of Engineering and Technology | architecture design
