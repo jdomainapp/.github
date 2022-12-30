@@ -30,7 +30,7 @@ At this point, we feel that JDA is stable enough to be released  and thus decide
 
 # Contributors
 
-# Reseachers
+## Reseachers
 | Name | Date | Organisation | Description
 | :--: | :--: | :--: | :--: |
 | Le, Minh Duc | 2012-now | Swinburne Vietnam | JDA creator, designer (architecture, framework), project lead
@@ -38,6 +38,7 @@ At this point, we feel that JDA is stable enough to be released  and thus decide
 | Vo, Dinh Hieu | 2012-2023 | VNU, University of Engineering and Technology | architecture design
 | Nguyen, Viet Ha | 2016-2019 | VNU, University of Engineering and Technology | Software development methodology
 
+## Students 
 | Name | Date | Description
 | :--: | :--: | :--: |
 | Le, Van Vinh | 2022-2023 | PhD Thesis, Faculty of IT, VNU University of Engineering and Technology
