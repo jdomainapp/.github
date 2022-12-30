@@ -27,3 +27,21 @@ Engineering and Technology). These works were later developed into two ISI journ
 Another major development of the framework started very recently in **2021** when the framework received a 2-year funding to develop the microservices capabilities. This project has just completed the first phase and is currently in the start of the second phase. Also starting with this project, jDomainApp is officially renamed to become **JDA**.
 
 At this point, we feel that JDA is stable enough to be released  and thus decided to make the source code public. There are still issues to be resoved and untappeded potential to be explored. We hope that the framework would be received by the community, used in software development and be contributed to by developers.
+
+# Contributors
+
+# Reseachers
+| Name | Date | Description
+| :--: | :--: | :--: |
+| Le, Minh Duc | 2012-now | JDA creator, designer (architecture, framework), project lead
+| Dang, Duc Hanh | 2016-2023 | aDSL language design 
+| Vo, Dinh Hieu | 2012-2023 | architecture design
+| Nguyen, Viet Ha | 2016-2019 | Software development methodology
+
+| Name | Date | Description
+| :--: | :--: | :--: |
+| Le, Van Vinh | 2022-2023 | PhD Thesis, Faculty of IT, VNU University of Engineering and Technology
+| Tran, Quang Linh | 2022-2023 | Masters Thesis, Faculty of IT, VNU University of Engineering and Technology
+| Tong, Van Anh Hai | 2022-2023 | Masters Thesis, Faculty of IT, VNU University of Engineering and Technology
+| Vu, Thanh Ha | 2018 | Masters Thesis, Faculty of IT, VNU University of Engineering and Technology
+| Do, Hai Binh | 2019 | Graduation Thesis, Faculty of IT, Hanoi University 
